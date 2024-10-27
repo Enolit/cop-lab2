@@ -1,0 +1,12 @@
+D:\SpbPU\WinForms\Lab2\LabLibrary2\bin\Debug\net8.0-windows\LabLibrary2.deps.json
+D:\SpbPU\WinForms\Lab2\LabLibrary2\bin\Debug\net8.0-windows\LabLibrary2.dll
+D:\SpbPU\WinForms\Lab2\LabLibrary2\bin\Debug\net8.0-windows\LabLibrary2.pdb
+D:\SpbPU\WinForms\Lab2\LabLibrary2\obj\Debug\net8.0-windows\LabLibrary2.GeneratedMSBuildEditorConfig.editorconfig
+D:\SpbPU\WinForms\Lab2\LabLibrary2\obj\Debug\net8.0-windows\LabLibrary2.AssemblyInfoInputs.cache
+D:\SpbPU\WinForms\Lab2\LabLibrary2\obj\Debug\net8.0-windows\LabLibrary2.AssemblyInfo.cs
+D:\SpbPU\WinForms\Lab2\LabLibrary2\obj\Debug\net8.0-windows\LabLibrary2.csproj.CoreCompileInputs.cache
+D:\SpbPU\WinForms\Lab2\LabLibrary2\obj\Debug\net8.0-windows\LabLibrary2.dll
+D:\SpbPU\WinForms\Lab2\LabLibrary2\obj\Debug\net8.0-windows\refint\LabLibrary2.dll
+D:\SpbPU\WinForms\Lab2\LabLibrary2\obj\Debug\net8.0-windows\LabLibrary2.pdb
+D:\SpbPU\WinForms\Lab2\LabLibrary2\obj\Debug\net8.0-windows\ref\LabLibrary2.dll
+D:\SpbPU\WinForms\Lab2\LabLibrary2\obj\Debug\net8.0-windows\LabLibrary2.csproj.AssemblyReference.cache

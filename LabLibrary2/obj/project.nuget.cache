@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "9lr6sdHKNZs=",
+  "success": true,
+  "projectFilePath": "D:\\SpbPU\\WinForms\\Lab2\\LabLibrary2\\LabLibrary2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dsshu\\.nuget\\packages\\docx\\3.0.1\\docx.3.0.1.nupkg.sha512",
+    "C:\\Users\\dsshu\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\dsshu\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\dsshu\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\dsshu\\.nuget\\packages\\system.io.packaging\\4.5.0\\system.io.packaging.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
