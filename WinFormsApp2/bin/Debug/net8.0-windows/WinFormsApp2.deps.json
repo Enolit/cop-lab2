@@ -47,10 +47,7 @@
           "DocX": "3.0.1"
         },
         "runtime": {
-          "LabLibrary2.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "LabLibrary2.dll": {}
         }
       }
     }

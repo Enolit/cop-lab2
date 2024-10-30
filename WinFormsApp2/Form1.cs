@@ -66,7 +66,7 @@ namespace WinFormsApp2
             };
 
             // Настройка ширины колонок
-            List<int> columnWidths = new List<int> { 2, 2, 2, 2, 2, 2, 2 };
+            List<int> columnWidths = new List<int> { 2, 2, 2, 2, 2, 3, 3 };
             // Пример данных сотрудников
             var employees = new List<object>
             {

@@ -12,8 +12,9 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\dsshu\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\dsshu\\.nuget\\packages"
+      "C:\\Users\\peach\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\peach\\.nuget\\packages",
+      "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {
       "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": true,

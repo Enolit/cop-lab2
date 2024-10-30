@@ -20,3 +20,26 @@ D:\SpbPU\WinForms\Lab2\WinFormsApp2\obj\Debug\net8.0-windows\refint\WinFormsApp2
 D:\SpbPU\WinForms\Lab2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.pdb
 D:\SpbPU\WinForms\Lab2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.genruntimeconfig.cache
 D:\SpbPU\WinForms\Lab2\WinFormsApp2\obj\Debug\net8.0-windows\ref\WinFormsApp2.dll
+E:\ЦОО\КОП 2024\cop-lab2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.exe
+E:\ЦОО\КОП 2024\cop-lab2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.deps.json
+E:\ЦОО\КОП 2024\cop-lab2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.runtimeconfig.json
+E:\ЦОО\КОП 2024\cop-lab2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.dll
+E:\ЦОО\КОП 2024\cop-lab2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.pdb
+E:\ЦОО\КОП 2024\cop-lab2\WinFormsApp2\bin\Debug\net8.0-windows\Xceed.Document.NET.dll
+E:\ЦОО\КОП 2024\cop-lab2\WinFormsApp2\bin\Debug\net8.0-windows\Xceed.Words.NET.dll
+E:\ЦОО\КОП 2024\cop-lab2\WinFormsApp2\bin\Debug\net8.0-windows\LabLibrary2.dll
+E:\ЦОО\КОП 2024\cop-lab2\WinFormsApp2\bin\Debug\net8.0-windows\LabLibrary2.pdb
+E:\ЦОО\КОП 2024\cop-lab2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.AssemblyReference.cache
+E:\ЦОО\КОП 2024\cop-lab2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Form1.resources
+E:\ЦОО\КОП 2024\cop-lab2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+E:\ЦОО\КОП 2024\cop-lab2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+E:\ЦОО\КОП 2024\cop-lab2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+E:\ЦОО\КОП 2024\cop-lab2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfo.cs
+E:\ЦОО\КОП 2024\cop-lab2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+E:\ЦОО\КОП 2024\cop-lab2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.sourcelink.json
+E:\ЦОО\КОП 2024\cop-lab2\WinFormsApp2\obj\Debug\net8.0-windows\WinForms.CF340A35.Up2Date
+E:\ЦОО\КОП 2024\cop-lab2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.dll
+E:\ЦОО\КОП 2024\cop-lab2\WinFormsApp2\obj\Debug\net8.0-windows\refint\WinFormsApp2.dll
+E:\ЦОО\КОП 2024\cop-lab2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.pdb
+E:\ЦОО\КОП 2024\cop-lab2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.genruntimeconfig.cache
+E:\ЦОО\КОП 2024\cop-lab2\WinFormsApp2\obj\Debug\net8.0-windows\ref\WinFormsApp2.dll
